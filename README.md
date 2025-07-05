@@ -1,44 +1,44 @@
 # 🎢 Adventure Park Data Analysis Dashboard
 
 Welcome to the **Adventure Park Data Analysis Dashboard**!  
-This project is an interactive data visualization dashboard built with **Streamlit** and **Pandas**, designed to provide insights into visitor trends, preferences, and revenue of an adventure park.
+This project showcases an interactive dashboard created using **Power BI** to analyze visitor demographics, activity participation, and revenue trends for an adventure park.
 
 ---
 
 ## 📊 Project Overview
 
-This dashboard allows users to:
-- Explore customer demographics (age, gender)
-- Analyze activity participation trends
-- Track revenue and spending behavior
-- Visualize data interactively and intuitively
+This Power BI dashboard helps visualize key metrics related to:
+- Visitor profiles (age, gender)
+- Activity preferences
+- Spending behavior and revenue insights
+
+It serves as a business intelligence tool for making data-driven decisions and understanding customer behavior in an adventure park setting.
 
 ---
 
 ## ✅ Features
 
-- 📈 Real-time data visualizations
-- 🧑‍🤝‍🧑 Age and gender-based analysis
-- 🏕️ Popular activities breakdown
-- 💰 Revenue distribution insights
-- 🚀 Streamlit-powered web interface
+- 📈 Interactive charts and graphs
+- 🧑‍🤝‍🧑 Demographic analysis (age, gender)
+- 🏕️ Activity popularity breakdown
+- 💰 Revenue and spending trends
+- 🎯 Clear and intuitive layout using Power BI visuals
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
-- **Python 3.x**
-- **Streamlit**
-- **Pandas**
-- *(Optional)* Matplotlib / Seaborn / Plotly
+- **Microsoft Power BI** – for data visualization and dashboard creation  
+- **Microsoft Excel / CSV** – for raw data storage and preprocessing
 
 ---
 
 ## 📁 Folder Structure
 adventure_park_data_analysis_dashboard/
-├── adventure_park_data.csv # Main dataset
-├── dashboard_app.py # Streamlit dashboard code
-├── EDA.ipynb # Exploratory Data Analysis notebook
-├── requirements.txt # Required Python packages
-└── README.md # Project documentation
+├── adventure_park_data.csv # Raw dataset
+├── dashboard.pbix # Power BI dashboard file
+
+##🧪 Dashboard Preview
+
+
 
